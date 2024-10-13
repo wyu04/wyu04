@@ -40,15 +40,15 @@ Bachelor's Degree of Computer Science (Bioinformatics), Universiti Teknologi Mal
 
 ## 💼 Internship: 
 Quality Assurance, XeerSoft 🕵️
-* *Test Planning and Design:*
+* ***Test Planning and Design:***
   * Create comprehensive test plans that outline the scope, objectives, and resources required for testing.
   * Design detailed test cases that cover various scenarios and potential defects.
       
-* *Test Execution:*
+* ***Test Execution:***
     * Execute test cases and Document test results accurately and comprehensively.
     * Identify defects and report them using a defect tracking tool, providing clear descriptions and steps to reproduce.
   
-* *Defect Tracking and Management:*
+* ***Defect Tracking and Management:***
     * Utilize a defect tracking tool to record, track, and manage identified defects throughout the development lifecycle.
     * Assign defects to appropriate developers for resolution.
     * Verify defect fixes and ensure they are closed properly.
