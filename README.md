@@ -30,7 +30,7 @@
   
 ## 🎓 Education: 
 Bachelor's Degree of Computer Science (Bioinformatics), Universiti Teknologi Malaysia 👨🏻‍🎓
-* *FYP: Identification of Potential Biomarkers for Esophageal Cancer From Gene Expression and Interaction Using Biclustering Algorithm*
+* ***FYP: Identification of Potential Biomarkers for Esophageal Cancer From Gene Expression and Interaction Using Biclustering Algorithm***
   * Biclustering, a powerful tool: effectively identify groups of genes and samples with similar patterns 📊
   * The importance of data preprocessing for accurate and meaningful results. 🧹
   * The effectiveness of SVM for classification: evaluate the identified biomarkers and assess their potential as predictors. 🤖
