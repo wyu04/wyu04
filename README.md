@@ -58,6 +58,6 @@ Quality Assurance, XeerSoft 🕵️
 <hr style="height:5px;border-width:0;background-color:#e8d6d2; border-radius: 25px;">
 
 ## ☎︎ Contact Me:
-* 📩 Email: guixuan@graduate.utm.my
+* 📩 Email: xuanhyuk@gmail.com
 * 🔗 LinkedIn: [Gui Yu Xuan](https://www.linkedin.com/in/guiyuxuan)
 
