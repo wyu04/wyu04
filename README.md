@@ -37,7 +37,7 @@ Bachelor's Degree of Computer Science (Bioinformatics), Universiti Teknologi Mal
   * The value of biological validation: Verifying biomarkers with biological knowledge bases helps to confirm their relevance and significance. 🧬
  
 Master In Data Science, Universiti Teknologi Malaysia 👨🏻‍🎓
-* **MDS: Identifying Patterns in Drug Efficacy Using Large Language Model and Clustering Techniques For Analyzing Drug Reviews** *
+* ***MDS: Identifying Patterns in Drug Efficacy Using Large Language Model and Clustering Techniques For Analyzing Drug Reviews***
   * 🧩 Designed and implemented a data-driven framework to bridge the gap between randomized control trials (RCTs) and real-world drug performance by analyzing patient-written drug reviews.
   * 🧹 Conducted data cleaning & preprocessing to structure noisy user-generated content, addressing duplicates, missing values, and irrelevant text.
   * 🤖 Leveraged GPT as an LLM tool to extract relevant keywords on drug side effects & effectiveness, improving signal-to-noise ratio in unstructured text.
